@@ -25,7 +25,7 @@ SECRET_KEY = '*g($en=wqemsbohi=g$c77-gl8!gf)-7(q20_2_ydblf(348et'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'polinachecherina.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'polinachch.pythonanywhere.com']
 
 
 # Application definition
